@@ -2,7 +2,7 @@
 """
 Created on Sun May 10 12:16:21 2020
 
-@author: SRIKAR REDDDY
+@author: SRIKAR REDDY
 """
  
 def num_ways_x_bottom_up(n,x):
